@@ -1,0 +1,85 @@
+.toolbar{
+    background-color: royalblue;
+}
+.toolbar p{
+    text-align: center;
+    padding-top: 7px;
+}
+.navigation{
+    background-color: whitesmoke;
+    position: sticky;
+}
+.navbar-nav{
+    margin-right: 100px;
+}
+.navbar-nav .home{
+    background-color: royalblue;
+    border-radius: 20px;
+    color: white;
+}
+.navbar-nav li{
+    padding: 0 5px;
+}
+.navbar-nav li a{
+    color: black;
+    font-weight: 400;
+}
+.navbar-nav .home{
+    background-color: royalblue;
+    border-radius: 20px;
+}
+.navbar-nav li a:hover{
+    background-color: royalblue;
+    border-radius: 20px;
+    color: white;
+}
+
+.description{
+    text-align: justify;
+    font-weight: 300;
+}
+.material{
+    text-align: center;
+}
+.facts img{
+    height: 40px;
+}
+.facts{
+    white-space: nowrap;
+    font-weight: 500;
+}
+.work img{
+    width: 70px;
+}
+.box{
+    padding: 30px;
+    
+    margin-bottom: 10px;
+    box-shadow: 10px;
+}
+.mission h4{
+    display: inline;
+    vertical-align: baseline;
+}
+.mission{
+    margin: 5px 3px;
+    padding: 5px 20px;
+}
+ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+.icons a{
+    margin: 2px 3px;
+    padding: 2px 3px;
+}
+h6{
+    margin: 0px -15px;
+}
+
+.gotop{
+    position: absolute;
+    right: 20px;
+    bottom: -1700px;
+}
