@@ -28,12 +28,23 @@
     background-color: royalblue;
     border-radius: 20px;
 }
+li a:hover{
+    background-color: royalblue;
+    border-radius: 20px;
+    color: white;
+}
 .navbar-nav li a:hover{
     background-color: royalblue;
     border-radius: 20px;
     color: white;
 }
+span{
+    color: gray !important ;
+}
 
+.item:hover{
+    color: white;
+}
 .description{
     text-align: justify;
     font-weight: 300;
